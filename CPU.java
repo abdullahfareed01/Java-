@@ -48,7 +48,7 @@ public class CpuScheduling {
         }
         System.out.println("\nAverage Waiting Time: " + avgWaitingTime);
         System.out.println("Average Turnaround Time: " + avgTurnaroundTime);
-
+        System.out.print("Commit changes");
         sc.close();
     }
 }
